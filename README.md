@@ -1,3 +1,4 @@
 My first readme
 my name is Brown
-from Ghana
+from Ghana 
+I am alx student
